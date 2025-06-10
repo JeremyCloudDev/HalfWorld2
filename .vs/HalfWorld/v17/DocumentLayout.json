@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander Rodriguez\\Documents\\GitHub\\HalfWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66AB40-0B6E-3CCB-1A6E-410CAF0BF3AF}|Assembly-CSharp.csproj|c:\\users\\alexander rodriguez\\documents\\github\\halfworld\\assets\\psxshaderkit\\shaders\\psx-vertexlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9D66AB40-0B6E-3CCB-1A6E-410CAF0BF3AF}|Assembly-CSharp.csproj|solutionrelative:assets\\psxshaderkit\\shaders\\psx-vertexlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PSX-VertexLit.shader",
+              "DocumentMoniker": "C:\\Users\\Alexander Rodriguez\\Documents\\GitHub\\HalfWorld\\Assets\\PSXShaderKit\\Shaders\\PSX-VertexLit.shader",
+              "RelativeDocumentMoniker": "Assets\\PSXShaderKit\\Shaders\\PSX-VertexLit.shader",
+              "ToolTip": "C:\\Users\\Alexander Rodriguez\\Documents\\GitHub\\HalfWorld\\Assets\\PSXShaderKit\\Shaders\\PSX-VertexLit.shader",
+              "RelativeToolTip": "Assets\\PSXShaderKit\\Shaders\\PSX-VertexLit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-04-06T16:17:23.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
