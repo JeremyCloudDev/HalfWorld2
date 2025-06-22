@@ -1,7 +1,56 @@
-.gitattributes
-Temp/
-Library/
-Logs/
-Obj/
-.dll
-.db
+# Archivos y carpetas de Unity que no deben incluirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Archivos de compilación de Rider/VS/JetBrains
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.suo
+*.user
+*.unityproj
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de paquetes
+*.apk
+*.aab
+*.unitypackage
+
+# Configs locales del editor
+*.prefs
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.orig
+
+# Repositorio de paquetes descargados
+Packages/packages-lock.json
+
